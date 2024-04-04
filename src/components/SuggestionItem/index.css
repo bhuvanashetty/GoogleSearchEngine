@@ -1,0 +1,14 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+.row-box {
+  height: 70px;
+  width: 500px;
+}
+.arrow-image {
+  height: 0.5px;
+  width: 0.5px;
+}
